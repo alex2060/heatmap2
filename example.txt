@@ -1,0 +1,14 @@
+o,name1,stl3.stl,1
+o,name2,#.stl,1
+o,nameofarrow,ves.stl,1
+l,name2,1,2,3,1
+l,name1,-1,-2,-3,1
+arw,nameofarrow,1,2,3,-1,-2,-3,ves.stl,1
+l,name2,0,0,0,10
+arw,nameofarrow,0,0,0,-1,-2,-3,ves.stl,10
+c,nameofarrow,1,0,0,10
+c,name1,1,0,0,10
+c,nameofarrow,0,0,1,20
+c,name1,2,0,0,20
+s,name1,2,30
+sc,name2,1,2,3,30
